@@ -1,2 +1,2 @@
 # Srinatura-Ayurvedha
-Official landing page for [Clinic Name], designed to streamline patient onboarding and appointment scheduling. 🩺
+Official landing page for Srinatura ayurvedha, designed to streamline patient onboarding and appointment scheduling. 🩺
